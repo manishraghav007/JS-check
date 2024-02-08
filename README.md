@@ -1,0 +1,2 @@
+# JS-check
+JavaScript codes
